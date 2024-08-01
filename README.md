@@ -18,7 +18,7 @@ This project focuses on:
 
 #### -- time_series.py / time_Series.ipynb - Contains code for the project
 
-#### -- EDA.ipynb / EDA.py - Exploratory Data Analysis [Click to view](https://www.kaggle.com/code/shailadh/eda-time-series?scriptVersionId=190759981)
+#### -- eda-time-series.ipynb / EDA.py - Exploratory Data Analysis [Click to view](https://www.kaggle.com/code/shailadh/eda-time-series?scriptVersionId=190759981)
 
 ----
 
@@ -31,17 +31,10 @@ This project focuses on:
   - [Preprocessing](#pp)
   - [Feature Engineering](#fe)
   - [Evaluation](#eval)
-- [Demo](#demo)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Setting up and Running the project with Docker](#with-docker)
-  - [Setup without Docker](#setup)
-  - [Running the project without Docker](#running-the-project)
-- [Citing](#citing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
-
-
+  - [Model](#model)
+- [Results](#results)
+- [Getting Started](#gs)
+  - [Prerequisites](#pr)
 
 
 ###  📌 Project Overview  <a name="overview"></a>
@@ -87,7 +80,31 @@ This project is a Notebook about time series forcasting for store sales.The purp
 - ### Evaluation  <a name="eval"></a>
   The evaluation metric used is Root Mean Squared Logarithmic Error. RMSLE = $\sqrt{\frac{1}{n} \sum_{i=1}^n (\log(p_i + 1) - \log(a_i+1))^2 }$
 
-- ### Model
+- ### Model <a name="model"></a>
     16 Light Gradient Boosting Model trained for each day
+
+----
+
+## 💫 Results <a name="results"></a>
+
+  Got a good score resulting in top 1 % of the kaggle leader board
+  
+   <p align="center">
+  <img width="60%" src="https://github.com/ShailadhShinde/Time_series/blob/main/assets/score.JPG">
+ </p>
+
+  
+---
+
+## 🚀 Getting Started <a name="gs"></a>
+
+### ✅ Prerequisites <a name="pr"></a>
+ 
+ - <b>Dataset prerequisite for training</b>:
+ 
+ Before starting to train a model, make sure to download the dataset from <a href="https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data" target="_blank">here </a> or add it to your notebook
+ ### 🐳 Setting up and Running the project
+
+ Just download/copy the files `time_series.py / time_Series.ipynb ` and `EDA.ipynb / EDA.py ` and run them
 
   
