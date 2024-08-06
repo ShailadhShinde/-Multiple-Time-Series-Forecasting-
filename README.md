@@ -39,7 +39,7 @@ This project focuses on:
 
 ###  📌 Project Overview  <a name="overview"></a>
 
-This project is a Notebook about time series forcasting for store sales.The purpose is to predict sales for 1000s of products sold at favourite stores located in South America’s west coast Ecuador.
+This project is a Notebook about time series forcasting for store sales.The purpose is to predict sales for 1000s of products sold at favourite stores located in South America’s west coast Ecuador. [Click here for more INFO](https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data)
 
 - ### About the dataset  <a name="atd"></a>
 
