@@ -1,7 +1,7 @@
 
 <div align="center">
 
-![logo](https://github.com/ShailadhShinde/Time-Series/blob/main/assets/header.png)  
+![logo](https://github.com/ShailadhShinde/Time_series/blob/main/assets/header.png)  
 <h1 align="center"><strong>Store Sales <h6 align="center">A Time Series Forecasting (CV) project</h6></strong></h1>
 
 ![Python - Version](https://img.shields.io/badge/PYTHON-3.9+-blue?style=for-the-badge&logo=python&logoColor=white)
