@@ -9,10 +9,10 @@
 </div>
 This project focuses on:
 
-- Exploratory Data Analysis
-- 
--
--
+- Exploratory Data Analysis of time series data
+- Time series using Supervised learning 
+- Treating time series as Regression
+- Feature Extraction of time series data
 
 #### -- Project Status: [Completed]
 
